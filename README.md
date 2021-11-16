@@ -1,4 +1,4 @@
-![AOT new tab](icon.png)
+![AOT new tab](assets/icon.png)
 # AOT-new-tab
 A cool Attack On Titan new tab.
 # About 
