@@ -4,7 +4,7 @@ A cool Attack On Titan new tab.
 # About 
 This is a attack on titan new tab perfect for AOT fans this was based on the Pixel tab extension in the chrome web store but edited to be AOT based.
 # Install
-To install first download the zip or latest release
+To install first download the latest release [here](https://github.com/Martian845/AOT-new-tab/releases/tag/AOT)
 
 Then Unzip
 
